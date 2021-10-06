@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Lakshan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1> 
-<h3 align="center">A Computer Science and Engineering Undergraduate at the University of Moratuwa</h3>
-
+<h3>A Computer Science and Engineering Undergraduate at the University of Moratuwa</h3>
+<br>
 - 🔭 I’m currently working on [Stock Pilot](https://github.com/Lakshan-Banneheke/stockpilot-backend)
 
 - 👨‍💻 Check out the [Airline Reservation System](https://b-airways.herokuapp.com) I developed 
