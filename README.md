@@ -1,8 +1,6 @@
 <h1> Hello, I'm Lakshan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h3>A Computer Science and Engineering Undergraduate at the University of Moratuwa</h3>
 <p align='center'>
-
-<h3 align="center">A Computer Science and Engineering Undergraduate at the University of Moratuwa</h3>
-
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
