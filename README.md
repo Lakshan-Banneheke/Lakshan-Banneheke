@@ -29,7 +29,8 @@
    <a href="">
       <img width=396 src="https://github-readme-stats.vercel.app/api?username=Lakshan-Banneheke&count_private=true&hide=stars,issues&show_icons=true&theme=dark" />
     </a>
-    
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshan-Banneheke)](https://github.com/Lakshan-Banneheke/github-readme-stats)
+
 
 <h2> Connect with me  </h2>
 <a href = 'https://www.linkedin.com/in/lakshan_banneheke'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
