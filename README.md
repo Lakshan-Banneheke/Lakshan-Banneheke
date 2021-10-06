@@ -1,7 +1,8 @@
 
 <h1 align="center">Hello, I'm Lakshan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1> 
 <h3>A Computer Science and Engineering Undergraduate at the University of Moratuwa</h3>
-<br>
+
+
 - 🔭 I’m currently working on [Stock Pilot](https://github.com/Lakshan-Banneheke/stockpilot-backend)
 
 - 👨‍💻 Check out the [Airline Reservation System](https://b-airways.herokuapp.com) I developed 
@@ -24,7 +25,7 @@
 <h3>Databases</h3>
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
-<h2> My GitHub Stats  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></h2>
+<h2> My GitHub Stats  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></h2>
    <a href="">
       <img width=396 src="https://github-readme-stats.vercel.app/api?username=Lakshan-Banneheke&count_private=true&hide=stars,issues&show_icons=true&theme=dark" />
     </a>
