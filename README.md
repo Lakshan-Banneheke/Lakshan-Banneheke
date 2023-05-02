@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on my final year research project - The research investigates the use of the brownout approach for container orchestration to achieve energy efficiency in containerized applications on edge clusters. A software system consisting of an analytical model to compute the power consumption and a brownout controller for container orchestration is being developed.
 
 - 👨‍💻 Projects:
+  - [Achieving Energy Efficiency in containerized applications using the Brownout approach](https://github.com/Lakshan-Banneheke/brownout-controller)
   - [AWS Secrets Manager based extension for the WSO2 Identity Server](https://github.com/wso2-extensions/carbon-securevault-aws)
   - [Stock Pilot - Crypto and Stock Market Analysis](https://www.youtube.com/watch?v=7Xej3eWsAy4&ab_channel=StockPilot)
   - [Supply Chain Management System](https://github.com/Lakshan-Banneheke/Supply-Chain-Management-System)
@@ -24,7 +25,10 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <h3>Programming Languages </h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 <h3>Cloud Technologies</h3>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> 
