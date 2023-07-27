@@ -1,9 +1,9 @@
 
 <h1 align="center">Hello, I'm Lakshan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1> 
-<h3>A Computer Science and Engineering Undergraduate at the University of Moratuwa</h3>
+<h3>A Software Engineer at WSO2</h3>
 
 
-- 🔭 I’m currently working on my final year research project - The research investigates the use of the brownout approach for container orchestration to achieve energy efficiency in containerized applications on edge clusters. A software system consisting of an analytical model to compute the power consumption and a brownout controller for container orchestration is being developed.
+- 🔭 My final year research project - The research investigates the use of the brownout approach for container orchestration to achieve energy efficiency in containerized applications on edge clusters. A software system consisting of an analytical model to compute the power consumption and a brownout controller for container orchestration is being developed.
 
 - 👨‍💻 Projects:
   - [Achieving Energy Efficiency in containerized applications using the Brownout approach](https://github.com/Lakshan-Banneheke/brownout-controller)
