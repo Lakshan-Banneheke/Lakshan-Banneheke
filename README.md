@@ -13,6 +13,7 @@
   - [Airline Reservation System](https://www.linkedin.com/posts/lakshan-banneheke_webdevelopment-nodejs-postgresql-activity-6775050966493487104-81px/)
   
 - 💼 Work Experience
+  - WSO2 LLC - Software Engineer
   - WSO2 LLC - Software Engineering Intern
   - iXD Labs (Pvt) Ltd - Software Engineering Intern 
   
