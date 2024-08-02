@@ -18,6 +18,7 @@
   - iXD Labs (Pvt) Ltd - Software Engineering Intern 
   
 - 📝 Certifications
+  - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/lakshanbanneheke-5418/credentials/7f66d9dc0260c6d2)
   - [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/2KGV9C)
 
 - 📫 How to reach me **btlakshan@gmail.com**
