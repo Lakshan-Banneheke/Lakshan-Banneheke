@@ -53,7 +53,7 @@
       <img width=396 src="https://github-readme-stats.vercel.app/api?username=Lakshan-Banneheke&count_private=true&hide=issues&show_icons=true&theme=dark" />
    </div>
 
-## Top Repositories
+<!-- ## Top Repositories
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%;">
   <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;">
     <a href="https://github.com/wso2-extensions/carbon-securevault-aws">
@@ -75,7 +75,7 @@
       <img style="width: 50%; height: 30%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=stockpilot-backend&theme=github_dark" />
     </a>
   </div>
-</div>
+</div> -->
 
 
 <h2> Connect with me  </h2>
