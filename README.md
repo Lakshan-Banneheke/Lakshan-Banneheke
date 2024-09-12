@@ -49,10 +49,33 @@
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 <h2> My GitHub Stats  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></h2>
-   <a href="">
+   <div style="display: block;">
       <img width=396 src="https://github-readme-stats.vercel.app/api?username=Lakshan-Banneheke&count_private=true&hide=issues&show_icons=true&theme=dark" />
+   </div>
+
+## Top Repositories
+<div>
+<!--   <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;"> -->
+    <a href="https://github.com/wso2-extensions/carbon-securevault-aws">
+      <img style="width: 50%; height: 50%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=carbon-securevault-aws&theme=github_dark" />
     </a>
-   
+<!--   </div> -->
+<!--   <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;"> -->
+    <a href="https://github.com/Lakshan-Banneheke/brownout-controller">
+      <img style="width: 50%; height: 50%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=brownout-controller&theme=github_dark" />
+    </a>
+<!--   </div> -->
+<!--   <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;"> -->
+    <a href="https://github.com/Lakshan-Banneheke/Airline-Reservation-System">
+      <img style="width: 50%; height: 50%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=Airline-Reservation-System&theme=github_dark" />
+    </a>
+<!--   </div> -->
+<!--   <div style="margin: 8px; width: 50%; height: 250px; overflow: hidden;"> -->
+    <a href="https://github.com/Lakshan-Banneheke/stockpilot-backend">
+      <img style="width: 50%; height: 50%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=stockpilot-backend&theme=github_dark" />
+    </a>
+<!--   </div> -->
+</div>
 
 
 <h2> Connect with me  </h2>
