@@ -54,27 +54,27 @@
    </div>
 
 ## Top Repositories
-<div>
-<!--   <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;"> -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 100%;">
+  <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;">
     <a href="https://github.com/wso2-extensions/carbon-securevault-aws">
-      <img style="width: 50%; height: 50%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=carbon-securevault-aws&theme=github_dark" />
+      <img style="width: 50%; height:30%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=carbon-securevault-aws&theme=github_dark" />
     </a>
-<!--   </div> -->
-<!--   <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;"> -->
+  </div>
+  <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;">
     <a href="https://github.com/Lakshan-Banneheke/brownout-controller">
-      <img style="width: 50%; height: 50%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=brownout-controller&theme=github_dark" />
+      <img style="width: 50%; height: 30%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=brownout-controller&theme=github_dark" />
     </a>
-<!--   </div> -->
-<!--   <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;"> -->
+  </div>
+  <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;">
     <a href="https://github.com/Lakshan-Banneheke/Airline-Reservation-System">
-      <img style="width: 50%; height: 50%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=Airline-Reservation-System&theme=github_dark" />
+      <img style="width: 50%; height: 30%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=Airline-Reservation-System&theme=github_dark" />
     </a>
-<!--   </div> -->
-<!--   <div style="margin: 8px; width: 50%; height: 250px; overflow: hidden;"> -->
+  </div>
+  <div style="margin: 8px; width: 50%; height: 50px; overflow: hidden;">
     <a href="https://github.com/Lakshan-Banneheke/stockpilot-backend">
-      <img style="width: 50%; height: 50%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=stockpilot-backend&theme=github_dark" />
+      <img style="width: 50%; height: 30%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshan-Banneheke&repo=stockpilot-backend&theme=github_dark" />
     </a>
-<!--   </div> -->
+  </div>
 </div>
 
 
